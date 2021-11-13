@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.header .container {
+  background-color: white;
+}
+
+.carousel-item .text-content h1,
+p {
+  padding-bottom: 10px;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: orange;
+}
+
+.middle img {
+  width: 64px;
+}
+
+.slider {
+  background-image: url(/bg-2.png);
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
