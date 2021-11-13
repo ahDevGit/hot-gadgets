@@ -25,3 +25,16 @@ p {
   background-repeat: no-repeat;
   background-size: auto;
 }
+
+/* Smartphone Section  CSS */
+
+.section-header a {
+  color: orange;
+  text-decoration: none;
+}
+
+.card {
+  border: none;
+  box-shadow: 5px 5px 20px whitesmoke;
+  border-radius: 20px;
+}
